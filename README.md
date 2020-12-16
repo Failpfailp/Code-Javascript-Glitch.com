@@ -22,7 +22,7 @@
 What are you waiting for? Join me on [Discord.](https://discord.gg/NZwwSUx8es)
 
 ### Menu
-- [Back](https://github.com/Failpfailp/Home/edit/main/README.md)
+- [Back](https://github.com/Failpfailp/Home/)
 - Free code:
  
 - 1.[Moderation And Fun](https://glitch.com/~fun-moderation-full-command)
