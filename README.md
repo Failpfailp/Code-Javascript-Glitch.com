@@ -23,4 +23,4 @@ What are you waiting for? Join me on [Discord.](https://discord.gg/NZwwSUx8es)
 
 ### Menu
 - [Back](https://github.com/Failpfailp/Home/edit/main/README.md)
-- Free code: [moderation and fun](https://glitch.com/edit/#!/remix/fun-moderation-full-command)
+- Free code: [moderation and fun](https://glitch.com/~fun-moderation-full-command)
